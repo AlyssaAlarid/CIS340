@@ -6,7 +6,7 @@ function MyApp() {
   return (
     <View>
       <Text>
-        Hello, I am a student in CIS340!
+        Hello, I am a student in CIS340!!
       </Text>
     </View>
   );
